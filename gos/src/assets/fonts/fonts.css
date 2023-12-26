@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "WiGuru 1";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./Wiguru.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./Inter-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    src: url("./Inter-Bold.ttf") format("opentype");
+}
