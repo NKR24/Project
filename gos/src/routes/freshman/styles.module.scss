@@ -4,3 +4,44 @@
   width: 100%;
   padding-top: 66px;
 }
+
+.first{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.left{
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  column-gap: 400px;
+}
+
+.button{
+  all: unset;
+  display: flex;
+  padding: 8px 48px 5px 48px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 63.636px;
+  border: 3.818px solid #86FC71;
+}
+
+.text{
+  color: #000;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.red{
+
+}
